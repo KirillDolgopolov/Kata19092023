@@ -9,6 +9,7 @@ public class Main {
 
 
         Validator.validarFecha("28/02/2023");
+        System.out.println("Hecho");
 
     }
 }
